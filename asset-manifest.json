@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AgePredict-ExcuseGenerator/static/css/main.1ff71318.css",
+    "main.js": "/AgePredict-ExcuseGenerator/static/js/main.dc956876.js",
+    "index.html": "/AgePredict-ExcuseGenerator/index.html",
+    "main.1ff71318.css.map": "/AgePredict-ExcuseGenerator/static/css/main.1ff71318.css.map",
+    "main.dc956876.js.map": "/AgePredict-ExcuseGenerator/static/js/main.dc956876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff71318.css",
+    "static/js/main.dc956876.js"
+  ]
+}
